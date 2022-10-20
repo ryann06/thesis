@@ -23,7 +23,7 @@
 </head>
 
 <body class="bg-gradient-primary">
-
+    <!-- Sample -->
     <div class="container">
 
         <!-- Outer Row -->
